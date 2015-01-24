@@ -1,0 +1,181 @@
+Script started on Fri 23 Jan 2015 11:32:49 PM PST
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ exitcho exit[4Pclearg++ -Wall -Werror -ansi -pedantic main.cppclear[Kecho exit[5Pxit[Kcd src/
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ cd src/[3Pexitcd src/[Kcd src/[3Pexitcho exit[4Pclearg++ -Wall -Werror -ansi -pedantic main.cpp
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ g++ -Wall -Werror -ansi -pedantic main.cppcd src/[K[3Pexitcd src/g++ -Wall -Werror -ansi -pedantic main.cppcd src/[Kg++ -Wall -Werror -ansi -pedantic main.cpp[K./a.out
+@jessica-SVF15218CXW$ ls
+a.out  main.cpp
+@jessica-SVF15218CXW$ echo hello CS100!!
+hello CS100!!
+@jessica-SVF15218CXW$ echo heyheyhey #ohno   nonono
+heyheyhey
+@jessica-SVF15218CXW$ ls l  lsls
+execvp: No such file or directory
+@jessica-SVF15218CXW$ cd what
+execvp: No such file or directory
+@jessica-SVF15218CXW$ lscd
+execvp: No such file or directory
+@jessica-SVF15218CXW$  ls cd
+ls: cannot access cd: No such file or directory
+@jessica-SVF15218CXW$ cd ls
+execvp: No such file or directory
+@jessica-SVF15218CXW$                     ls
+a.out  main.cpp
+@jessica-SVF15218CXW$ asdfghjkl
+execvp: No such file or directory
+@jessica-SVF15218CXW$ echo              hi
+hi
+@jessica-SVF15218CXW$              echo          hi               hi          #whut
+hi hi
+@jessica-SVF15218CXW$ ................
+execvp: No such file or directory
+@jessica-SVF15218CXW$ ls ;  ls
+ls: cannot access ;: No such file or directory
+ls: cannot access ls: No such file or directory
+@jessica-SVF15218CXW$ ls \\  || echo hi
+ls: cannot access ||: No such file or directory
+ls: cannot access echo: No such file or directory
+ls: cannot access hi: No such file or directory
+@jessica-SVF15218CXW$ exit
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ ./a.outg++ -Wall -Werror -ansi -pedantic main.cpp./a.out[K 
+@jessica-SVF15218CXW$ ls
+a.out  main.cpp
+@jessica-SVF15218CXW$ ls -a
+.  ..  a.out  main.cpp	.main.cpp.swo  .main.cpp.swp
+@jessica-SVF15218CXW$ #tea st
+execvp: No such file or directory
+@jessica-SVF15218CXW$ 
+Segmentation fault (core dumped)
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ ./a.out 
+@jessica-SVF15218CXW$ bin/rshell
+execvp: No such file or directory
+@jessica-SVF15218CXW$ exit
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ script
+Script started, file is typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ ls
+[0m[01;32ma.out[0m  main.cpp  typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ cler[Kar
+[H[2J]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ ls
+[0m[01;32ma.out[0m  main.cpp  typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ vim typescript 
+[?1000h[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;57r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[57;1H"typescript" 0L, 0C[>c[1;1H[33m  1 [m
+[1m[34m~                                                                                                              [3;1H~                                                                                                              [4;1H~                                                                                                              [5;1H~                                                                                                              [6;1H~                                                                                                              [7;1H~                                                                                                              [8;1H~                                                                                                              [9;1H~                                                                                                              [10;1H~                                                                                                              [11;1H~                                                                                                              [12;1H~                                                                                                              [13;1H~                                                                                                              [14;1H~                                                                                                              [15;1H~                                                                                                              [16;1H~                                                                                                              [17;1H~                                                                                                              [18;1H~                                                                                                              [19;1H~                                                                                                              [20;1H~                                                                                                              [21;1H~                                                                                                              [22;1H~                                                                                                              [23;1H~                                                                                                              [24;1H~                                                                                                              [25;1H~                                                                                                              [26;1H~                                                                                                              [27;1H~                                                                                                              [28;1H~                                                                                                              [29;1H~                                                                                                              [30;1H~                                                                                                              [31;1H~                                                                                                              [32;1H~                                                                                                              [33;1H~                                                                                                              [34;1H~                                                                                                              [35;1H~                                                                                                              [36;1H~                                                                                                              [37;1H~                                                                                                              [38;1H~                                                                                                              [39;1H~                                                                                                              [40;1H~                                                                                                              [41;1H~                                                                                                              [42;1H~                                                                                                              [43;1H~                                                                                                              [44;1H~                                                                                                              [45;1H~                                                                                                              [46;1H~                                                                                                              [47;1H~                                                                                                              [48;1H~                                                                                                              [49;1H~                                                                                                              [50;1H~                                                                                                              [51;1H~                                                                                                              [52;1H~                                                                                                              [53;1H~                                                                                                              [54;1H~                                                                                                              [55;1H~                                                                                                              [56;1H~                                                                                                              [m[57;94H0,0-1[9CAll[1;5H[?12l[?25h[?1000l[?1006h[?1002h[?1006l[?1002l[?1006h[?1002hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[57;1H[K[57;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1006l[?1002l[57;1H[K[57;1H[?1l>[?12l[?25h[?1049l]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ cd ..
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ ls
+LICENSE  Makefile  README.md  [0m[01;34msrc[0m  typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ vim typescript 
+[?1000h[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;57r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[57;1H"typescript" [noeol] 61L, 8192C[>c[1;1H[33m  1 [mScript started on Fri 23 Jan 2015 11:32:49 PM PST
+[33m  2 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS100/rr[3;1H[33m    [mshell$ exit[34m^H^H^H[mcho exit[34m^H^H^H^H^H^H^H^H^H^[[m[4Pclear[34m^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^HH[m[4;1H[33m    [m[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H[mclear[34m^[[m[K[34m^H^H^H^H^H[mecho ee[5;1H[33m    [mxit[34m^H^H^H^H^H^H^H^H^[[m[5Pxit[34m^H^H^H^H^[[m[K[34m^G[mcd src/[34m^M[m
+[33m  3 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/src[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS11[7;1H[33m    [m00/rshell/src$ cd src/[34m^H^H^H^H^H^H^H^[[m[3Pexit[34m^H^H^H^H[mcd src/[34m^H^H^H^H^H^H^H^[[m[Kcd src/[34m^H^H^H^H^H^H^H^[[m[3Pexii[8;1H[33m    [mt[34m^H^H^H[mcho exit[34m^H^H^H^H^H^H^H^H^H^[[m[4Pclear[34m^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^M[m
+[33m  4 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/src[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS11[10;1H[33m    [m00/rshell/src$ g++ -Wall -Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^HH[m[11;1H[33m    [m[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H[mcd src/[34m^[[m[K[34m^H^H^H^H^H^H^H^[[m[3Pexit[34m^H^H^H^H[mcd src/[34m^H^H^H^H^H^H^H[mg++ -Wall  [12;1H[33m    [m-Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^^[m[13;1H[33m    [m[34mH^H^H^H^H[mcd src/[34m^[[m[K[34m^H^H^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^^[m[14;1H[33m    [m[34mH^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^[[m[K[34m^G[m./a.out[34m^M[m
+[33m  5 [m[34m^A[m@jessica-SVF15218CXW$ ls[34m^M[m
+[33m  6 [ma.out  main.cpp[34m^M[m
+[33m  7 [m[34m^A[m@jessica-SVF15218CXW$ echo hello CS100!![34m^M[m
+[33m  8 [mhello CS100!![34m^M[m
+[33m  9 [m[34m^A[m@jessica-SVF15218CXW$ echo heyheyhey #ohno[34m^H[m [34m^H^H[m [34m^H[m nonono[34m^M[m
+[33m 10 [mheyheyhey[34m^M[m
+[33m 11 [m[34m^A[m@jessica-SVF15218CXW$ ls l[34m^H[m [34m^H^H[m [34m^H[mlsls[34m^M[m
+[33m 12 [mexecvp: No such file or directory[34m^M[m
+[33m 13 [m[34m^A[m@jessica-SVF15218CXW$ cd what[34m^M[m
+[33m 14 [mexecvp: No such file or directory[34m^M[m
+[33m 15 [m[34m^A[m@jessica-SVF15218CXW$ lscd[34m^M[m
+[33m 16 [mexecvp: No such file or directory[34m^M[m
+[33m 17 [m[34m^A[m@jessica-SVF15218CXW$  ls cd[34m^M[m
+[33m 18 [mls: cannot access cd: No such file or directory[34m^M[m
+[33m 19 [m[34m^A[m@jessica-SVF15218CXW$ cd ls[34m^M[m
+[33m 20 [mexecvp: No such file or directory[34m^M[m
+[33m 21 [m[34m^A[m@jessica-SVF15218CXW$[21Cls[34m^M[m
+[33m 22 [ma.out  main.cpp[34m^M[m
+[33m 23 [m[34m^A[m@jessica-SVF15218CXW$ asdfghjkl[34m^M[m
+[33m 24 [mexecvp: No such file or directory[34m^M[m
+[33m 25 [m[34m^A[m@jessica-SVF15218CXW$ echo[14Chi[34m^M[m
+[33m 26 [mhi[34m^M[m
+[33m 27 [m[34m^A[m@jessica-SVF15218CXW$[14Cecho[10Chi[15Chi[10C#whut[34m^M[m
+[33m 28 [mhi hi[34m^M[m
+[33m 29 [m[34m^A[m@jessica-SVF15218CXW$ ................[34m^M[m
+[33m 30 [mexecvp: No such file or directory[34m^M[m
+[33m 31 [m[34m^A[m@jessica-SVF15218CXW$ ls ;  ls[34m^M[m
+[33m 32 [mls: cannot access ;: No such file or directory[34m^M[m
+[33m 33 [mls: cannot access ls: No such file or directory[34m^M[m
+[33m 34 [m[34m^A[m@jessica-SVF15218CXW$ ls \\[34m^H[m [34m^H^H[m [34m^H[m|| echo hi[34m^M[m
+[33m 35 [mls: cannot access ||: No such file or directory[34m^M[m
+[33m 36 [mls: cannot access echo: No such file or directory[34m^M[m
+[33m 37 [mls: cannot access hi: No such file or directory[34m^M[m
+[33m 38 [m[34m^A[m@jessica-SVF15218CXW$ exit[34m^M[m
+[33m 39 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/src[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS11[50;1H[33m    [m00/rshell/src$ ./a.out[34m^H^H^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^^[m[51;1H[33m    [m[34mH^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H[m./a.out[34m^[[m[K [34m^M[m
+[33m 40 [m[34m^A[m@jessica-SVF15218CXW$ ls[34m^M[m
+[33m 41 [ma.out  main.cpp[34m^M[m
+[33m 42 [m[34m^A[m@jessica-SVF15218CXW$ ls -a[34m^M[m
+[33m 43 [m.  ..  a.out  main.cpp  .main.cpp.swo  .main.cpp.swp[34m^M[m
+[33m 44 [m[34m^A[m@jessica-SVF15218CXW$ #tea[34m^H[m [34m^H[mst[34m^M[m[57;94H1,1[11CTop[1;5H[?12l[?25h[?1000l[?1006h[?1002h[?1006l[?1002l[?1006h[?1002hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[57;94H5,26-27[15;31H[?12l[?25h[?25l[57;1H[K[57;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1006l[?1002l[57;1H[K[57;1H[?1l>[?12l[?25h[?1049l]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ ls
+LICENSE  Makefile  README.md  [0m[01;34msrc[0m  typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ cd src/
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ ls
+[0m[01;32ma.out[0m  main.cpp  typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ rm typescript 
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ ls
+[0m[01;32ma.out[0m  main.cpp
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/srcjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/src$ cd ..
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ ls
+LICENSE  Makefile  README.md  [0m[01;34msrc[0m  typescript
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ ls
+LICENSE  Makefile  README.md  [0m[01;34msrc[0m  test
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ vim test
+[?1000h[?1049h[?1h=[2;1H▽[6n[1;1H  [1;1H[1;57r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[57;1H"test" [noeol] 108L, 16384C[>c[1;1H[33m  1 [mScript started on Fri 23 Jan 2015 11:32:49 PM PST
+[33m  2 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS100/rr[3;1H[33m    [mshell$ exit[34m^H^H^H[mcho exit[34m^H^H^H^H^H^H^H^H^H^[[m[4Pclear[34m^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^HH[m[4;1H[33m    [m[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H[mclear[34m^[[m[K[34m^H^H^H^H^H[mecho ee[5;1H[33m    [mxit[34m^H^H^H^H^H^H^H^H^[[m[5Pxit[34m^H^H^H^H^[[m[K[34m^G[mcd src/[34m^M[m
+[33m  3 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/src[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS11[7;1H[33m    [m00/rshell/src$ cd src/[34m^H^H^H^H^H^H^H^[[m[3Pexit[34m^H^H^H^H[mcd src/[34m^H^H^H^H^H^H^H^[[m[Kcd src/[34m^H^H^H^H^H^H^H^[[m[3Pexii[8;1H[33m    [mt[34m^H^H^H[mcho exit[34m^H^H^H^H^H^H^H^H^H^[[m[4Pclear[34m^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^M[m
+[33m  4 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/src[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS11[10;1H[33m    [m00/rshell/src$ g++ -Wall -Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^HH[m[11;1H[33m    [m[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H[mcd src/[34m^[[m[K[34m^H^H^H^H^H^H^H^[[m[3Pexit[34m^H^H^H^H[mcd src/[34m^H^H^H^H^H^H^H[mg++ -Wall  [12;1H[33m    [m-Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^^[m[13;1H[33m    [m[34mH^H^H^H^H[mcd src/[34m^[[m[K[34m^H^H^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^^[m[14;1H[33m    [m[34mH^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^[[m[K[34m^G[m./a.out[34m^M[m
+[33m  5 [m[34m^A[m@jessica-SVF15218CXW$ ls[34m^M[m
+[33m  6 [ma.out  main.cpp[34m^M[m
+[33m  7 [m[34m^A[m@jessica-SVF15218CXW$ echo hello CS100!![34m^M[m
+[33m  8 [mhello CS100!![34m^M[m
+[33m  9 [m[34m^A[m@jessica-SVF15218CXW$ echo heyheyhey #ohno[34m^H[m [34m^H^H[m [34m^H[m nonono[34m^M[m
+[33m 10 [mheyheyhey[34m^M[m
+[33m 11 [m[34m^A[m@jessica-SVF15218CXW$ ls l[34m^H[m [34m^H^H[m [34m^H[mlsls[34m^M[m
+[33m 12 [mexecvp: No such file or directory[34m^M[m
+[33m 13 [m[34m^A[m@jessica-SVF15218CXW$ cd what[34m^M[m
+[33m 14 [mexecvp: No such file or directory[34m^M[m
+[33m 15 [m[34m^A[m@jessica-SVF15218CXW$ lscd[34m^M[m
+[33m 16 [mexecvp: No such file or directory[34m^M[m
+[33m 17 [m[34m^A[m@jessica-SVF15218CXW$  ls cd[34m^M[m
+[33m 18 [mls: cannot access cd: No such file or directory[34m^M[m
+[33m 19 [m[34m^A[m@jessica-SVF15218CXW$ cd ls[34m^M[m
+[33m 20 [mexecvp: No such file or directory[34m^M[m
+[33m 21 [m[34m^A[m@jessica-SVF15218CXW$[21Cls[34m^M[m
+[33m 22 [ma.out  main.cpp[34m^M[m
+[33m 23 [m[34m^A[m@jessica-SVF15218CXW$ asdfghjkl[34m^M[m
+[33m 24 [mexecvp: No such file or directory[34m^M[m
+[33m 25 [m[34m^A[m@jessica-SVF15218CXW$ echo[14Chi[34m^M[m
+[33m 26 [mhi[34m^M[m
+[33m 27 [m[34m^A[m@jessica-SVF15218CXW$[14Cecho[10Chi[15Chi[10C#whut[34m^M[m
+[33m 28 [mhi hi[34m^M[m
+[33m 29 [m[34m^A[m@jessica-SVF15218CXW$ ................[34m^M[m
+[33m 30 [mexecvp: No such file or directory[34m^M[m
+[33m 31 [m[34m^A[m@jessica-SVF15218CXW$ ls ;  ls[34m^M[m
+[33m 32 [mls: cannot access ;: No such file or directory[34m^M[m
+[33m 33 [mls: cannot access ls: No such file or directory[34m^M[m
+[33m 34 [m[34m^A[m@jessica-SVF15218CXW$ ls \\[34m^H[m [34m^H^H[m [34m^H[m|| echo hi[34m^M[m
+[33m 35 [mls: cannot access ||: No such file or directory[34m^M[m
+[33m 36 [mls: cannot access echo: No such file or directory[34m^M[m
+[33m 37 [mls: cannot access hi: No such file or directory[34m^M[m
+[33m 38 [m[34m^A[m@jessica-SVF15218CXW$ exit[34m^M[m
+[33m 39 [m[34m^[[m]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/src[34m^G[mjessica@jessica-SVF15218CXW:~/Documents/CS11[50;1H[33m    [m00/rshell/src$ ./a.out[34m^H^H^H^H^H^H^H[mg++ -Wall -Werror -ansi -pedantic main.cpp[34m^H^H^H^H^H^H^H^H^H^H^H^H^H^H^^[m[51;1H[33m    [m[34mH^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H^H[m./a.out[34m^[[m[K [34m^M[m
+[33m 40 [m[34m^A[m@jessica-SVF15218CXW$ ls[34m^M[m
+[33m 41 [ma.out  main.cpp[34m^M[m
+[33m 42 [m[34m^A[m@jessica-SVF15218CXW$ ls -a[34m^M[m
+[33m 43 [m.  ..  a.out  main.cpp  .main.cpp.swo  .main.cpp.swp[34m^M[m
+[33m 44 [m[34m^A[m@jessica-SVF15218CXW$ #tea[34m^H[m [34m^H[mst[34m^M[m[57;94H1,1[11CTop[1;5H[?12l[?25h[?1000l[?1006h[?1002h[?1006l[?1002l[?1006h[?1002hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[57;95H6,34[26;38H[?12l[?25h[?25l[57;1H[K[57;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[?1006l[?1002l[57;1H[K[57;1H[?1l>[?12l[?25h[?1049l]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ cp test test.c[Kscri[t[K[Kpt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmv test test.script
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ ls
+LICENSE  Makefile  README.md  [0m[01;34msrc[0m  test.script
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ mkdir tests
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ mv test.script tests/[K
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ ls
+LICENSE  Makefile  README.md  [0m[01;34msrc[0m  [01;34mtests[0m
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ cd tests/
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/testsjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/tests$ s[Kls
+test.script
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshell/testsjessica@jessica-SVF15218CXW:~/Documents/CS100/rshell/tests$ cd ..
+]0;jessica@jessica-SVF15218CXW: ~/Documents/CS100/rshelljessica@jessica-SVF15218CXW:~/Documents/CS100/rshell$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what w
